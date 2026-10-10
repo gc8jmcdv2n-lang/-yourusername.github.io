@@ -1,0 +1,17 @@
+[
+  {
+    "id": "youtube",
+    "title": "YouTube",
+    "url": "https://www.youtube.com/embed?listType=search&list=gaming"
+  },
+  {
+    "id": "roblox",
+    "title": "Roblox",
+    "url": "https://www.roblox.com/games"
+  },
+  {
+    "id": "codm",
+    "title": "Call of Duty Mobile",
+    "url": "https://poki.com/en/g/call-of-duty-mobile" 
+  }
+]
